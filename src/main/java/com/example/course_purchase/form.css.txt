@@ -1,0 +1,9 @@
+.l3,.l4{
+  -fx-alignment:center;
+}
+#title,#signup
+{  
+    -fx-font:bold20pt"Arial";  
+    -fx-effect:dropshadow(one-pass-box,DARKGREEN,8,0.0,2,0);  
+     
+} 
